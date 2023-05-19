@@ -183,7 +183,7 @@
     {
       "name": "rp-haushalt-2016-2017-2018",
       "format": "csv",
-      "path": "RP-haushalt-2016-2017-2018.csv",
+      "path": "https://storage.openspending.org/RP-haushalt-2016-2017-2018.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 10295856,
       "dialect": {
